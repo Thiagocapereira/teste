@@ -1,0 +1,25 @@
+todos os comandos no linux é sempre em minusculo
+
+sudo apt update #atualizar o sources. list
+
+sudo apt upgrade #atualizar o sistema
+
+sudo apt full-upgade #atualização completa do sistema
+
+sudo apt dist-upgrade #atualização da distribuição
+
+sudo apt autoremove #auto remoção de softwere 
+
+sudo apt auto cleam #auto limpeza do sistema operacional
+
+sudo reboot #reinicirar o sistema 
+
+history #histórico de comandos
+
+sudo apt install #instalar software
+
+---------------------------
+
+teclas de atalho
+
+ctrl + 
